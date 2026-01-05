@@ -135,7 +135,7 @@
 			(at 0 -6.25 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e198816d-ea52-4028-9a50-68ec3be347d9")
+			(uuid "89a9c090-8359-4839-b3c5-f0fb799f7ab5")
 			(effects
 				(font
 					(size 1 1)
@@ -146,7 +146,7 @@
 		(property "Value" "MountingHole"
 			(at 0 6.25 0)
 			(layer "F.Fab")
-			(uuid "311679b4-76dd-4664-afd8-7e9a6dda1159")
+			(uuid "8882c382-c203-4936-bec4-55ea22882752")
 			(effects
 				(font
 					(size 1 1)
@@ -158,7 +158,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83326045-3cd9-46d0-b6b3-c6b78af3d614")
+			(uuid "1c582638-1665-4ecb-815e-828dbc92b97e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -170,7 +170,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "250f1cc4-a39e-47c1-94d5-4ef0ff4f0228")
+			(uuid "764458f0-0d78-4407-8fe6-9370f17970dd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2452,7 +2452,7 @@
 			(at 0 -6.25 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "7e30a8bd-648b-4262-813f-eae80d7f1c00")
+			(uuid "0f833a2c-4638-4a01-8669-8491e3d40099")
 			(effects
 				(font
 					(size 1 1)
@@ -2463,7 +2463,7 @@
 		(property "Value" "MountingHole"
 			(at 0 6.25 0)
 			(layer "F.Fab")
-			(uuid "07e13a16-307d-41fb-a8d9-1578f1e59c55")
+			(uuid "0c3938aa-3a03-44fc-98d2-ab53c808142d")
 			(effects
 				(font
 					(size 1 1)
@@ -2475,7 +2475,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c3f212c7-2159-4e68-8a9e-9a707d064581")
+			(uuid "c9321fa6-1e06-4b5b-b758-fd02e2df22ed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2487,7 +2487,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "21bb4e20-7b4e-4e87-9535-05063f15852a")
+			(uuid "328fd0f8-e6c1-42ed-a5db-ba767f4e34eb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3208,7 +3208,7 @@
 			(at 0 -6.25 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "380681dd-09f6-41d2-8ab2-320de1c2ae00")
+			(uuid "74a46450-72d2-40c1-aa1f-37f6a775e34e")
 			(effects
 				(font
 					(size 1 1)
@@ -3219,7 +3219,7 @@
 		(property "Value" "MountingHole"
 			(at 0 6.25 0)
 			(layer "F.Fab")
-			(uuid "9503ea2c-5665-49ff-b1d4-0b7bee5a2948")
+			(uuid "58c8a75d-0268-4eaf-a05a-28c7162363f8")
 			(effects
 				(font
 					(size 1 1)
@@ -3231,7 +3231,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fad2d295-da4c-4347-965a-b9f7bd259e33")
+			(uuid "146fe564-7305-4221-b4ea-57bb7bf28b37")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3243,7 +3243,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9a30d2d2-d4f5-4a2f-a495-041e126ce643")
+			(uuid "435c1984-12dc-4796-b8ca-31e49b08ea07")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7493,7 +7493,7 @@
 			(at 0 -6.25 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "8bae446f-e7f8-4c7f-8e8f-9c5a537c81e7")
+			(uuid "f0a172f1-d217-4f5d-b9a7-278a1f4c163e")
 			(effects
 				(font
 					(size 1 1)
@@ -7504,7 +7504,7 @@
 		(property "Value" "MountingHole"
 			(at 0 6.25 0)
 			(layer "F.Fab")
-			(uuid "56658d1d-ee30-4215-b013-1205d8ad9f6e")
+			(uuid "6cd04313-e0f1-4e61-91e1-84bc17d6822c")
 			(effects
 				(font
 					(size 1 1)
@@ -7516,7 +7516,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a11a0163-480a-4704-b5c3-26ae4747792b")
+			(uuid "5239cb08-fb76-4403-8089-02eb42760c4f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7528,7 +7528,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f6e5e467-5115-424e-85ad-ce0da3703dd9")
+			(uuid "8b887557-da25-4aee-a189-d7d0742e31aa")
 			(effects
 				(font
 					(size 1.27 1.27)
